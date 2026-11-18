@@ -1,0 +1,6 @@
+{
+  "headers": [
+    { "source": "/app-insieme-8k2v/(.*)", "headers": [ { "key": "X-Robots-Tag", "value": "noindex, nofollow" } ] },
+    { "source": "/dono-libro-r7m4/(.*)", "headers": [ { "key": "X-Robots-Tag", "value": "noindex, nofollow" } ] }
+  ]
+}
